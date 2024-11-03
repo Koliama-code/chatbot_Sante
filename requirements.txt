@@ -1,5 +1,7 @@
 streamlit
 langchain-core
 langchain-groq
+python-dotenv
+
 
 # Ajouter d'autres dépendances nécessaires ici
