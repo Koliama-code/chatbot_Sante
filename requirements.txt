@@ -1,0 +1,3 @@
+streamlit
+langchain-core
+# Ajouter d'autres dépendances nécessaires ici
