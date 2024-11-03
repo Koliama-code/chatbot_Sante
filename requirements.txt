@@ -1,3 +1,5 @@
 streamlit
 langchain-core
+langchain-groq
+
 # Ajouter d'autres dépendances nécessaires ici
